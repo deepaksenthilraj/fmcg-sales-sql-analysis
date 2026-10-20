@@ -62,7 +62,8 @@ Revenue = units sold x unit price x (1 - discount %).
 
 ## Sample output
 
-![Monthly growth](monthly_growth.png)
+<img src="revenue_by_category.png" alt="Revenue by category" width="700">
+<img src="monthly_growth.png" alt="Monthly growth" width="700">
 
 ## How to run
 
