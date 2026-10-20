@@ -53,12 +53,10 @@ Revenue = units sold x unit price x (1 - discount %).
 
 ## Key findings
 
-*Fill these in from your own query results.*
-
-- Top category by revenue: **[category]**, with revenue of **[amount]**
-- Highest revenue month: **[month]**; revenue rose in the festive months (Oct to Dec) by **[x]%** over the previous month
-- Discount effect: average units per sale rose from **[x]** at 0% discount to **[y]** at 15% discount
-- Data quality: **[x]** duplicate rows and **[y]** missing values were found and removed
+- Top category by revenue: **Personal Care**, with revenue of about **6.36 million**
+- Highest revenue month: **December 2025** (about 2.27 million). Revenue jumped **70.9%** in October compared with September as the festive months began
+- Discount effect: average units per sale rose from **24.2** at 0% discount to **39.1** at 15% discount
+- Data quality: **10** duplicate records and **15** missing unit values were found and removed
 
 ## Sample output
 
